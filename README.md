@@ -14,28 +14,28 @@ Description: This dataset contains network traffic data from IoT devices operati
 https://www.kaggle.com/datasets/siddharthm1698/ddos-botnet-attack-on-iot-devices
 
 ## Research Areas
-Time Series Forecasting:
+### Time Series Forecasting:
 Development of transformer-based models for predicting environmental parameters like temperature, humidity, and pressure.
-Human-Environment Interaction Optimization:
+### Human-Environment Interaction Optimization:
 Providing recommendations based on environmental telemetry to enhance human safety, comfort, and productivity.
 Anomaly Detection:
 Design of real-time systems to identify irregularities in IoT devices, including malfunctions and abnormal telemetry patterns.
-Cybersecurity for IoT Devices:
+### Cybersecurity for IoT Devices:
 Detection and mitigation of cyberattacks, such as DDoS attacks, targeting IoT infrastructures using network traffic analysis.
-Exploratory Data Analysis (EDA):
+### Exploratory Data Analysis (EDA):
 Application of EDA to uncover patterns, relationships, and anomalies within IoT telemetry and network datasets.
-Predictive Maintenance:
+### Predictive Maintenance:
 Early identification of potential IoT device failures, leveraging anomaly detection to enable predictive maintenance strategies.
 ## Objectives
-Develop Transformer Models for Time Series Forecasting:
-Utilize advanced architectures to predict trends in environmental telemetry data.
-Validate the models’ superiority over traditional techniques in terms of accuracy and robustness.
-Optimize Environmental Insights for Human Activities:
-Analyze telemetry data to provide actionable insights for improving human interaction with the environment.
-Detect IoT Device Malfunctions:
-Create systems to identify early signs of device failures and recommend predictive maintenance.
-Identify and Mitigate Cyberattacks:
-Leverage network traffic data to build robust cybersecurity frameworks for detecting and countering cyber threats.
+### Develop Transformer Models for Time Series Forecasting:
+### Utilize advanced architectures to predict trends in environmental telemetry data.
+### Validate the models’ superiority over traditional techniques in terms of accuracy and robustness.
+### Optimize Environmental Insights for Human Activities:
+### Analyze telemetry data to provide actionable insights for improving human interaction with the environment.
+### Detect IoT Device Malfunctions:
+### Create systems to identify early signs of device failures and recommend predictive maintenance.
+### Identify and Mitigate Cyberattacks:
+### Leverage network traffic data to build robust cybersecurity frameworks for detecting and countering cyber threats.
 ## Methodology
 ### Data Preprocessing and EDA:
 Ensure data compatibility with machine learning workflows.
