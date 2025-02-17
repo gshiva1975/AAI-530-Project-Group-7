@@ -1,5 +1,5 @@
 # AAI-530-ProjectGroup-7
-Regional IoT Forecasting: Advancing Time Series Analysis, Anomaly Detection, and Cybersecurity Using AI Models
+**Convergence of IoT, Machine Learning, and Advanced Analytics to Address Critical Challenges in Forecasting Human Activities, Anomaly Detection, and Cybersecurity**
 
 ## Abstract
 The exponential growth of IoT devices has generated vast amounts of time series data, creating opportunities to enhance human activities, ensure device reliability, and safeguard against cyber threats. This project integrates multiple research areas, focusing on time series forecasting, real-time anomaly detection, and cybersecurity. By utilizing the DDoS Botnet Attack on IoT Devices dataset and the IoT Telemetry Sensor Data Analysis dataset, this research employs transformer models and exploratory data analysis (EDA) to drive insights and optimize IoT ecosystem functionality within a given Region. Key deliverables include accurate environmental forecasting, robust anomaly detection mechanisms, and actionable insights for human activity optimization.
